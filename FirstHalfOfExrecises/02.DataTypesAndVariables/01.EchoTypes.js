@@ -7,6 +7,6 @@ function echoTypes(param){
         console.log(type)
         console.log('Parameter is not suitable for printing')
     }
-    //something for test
+    //something for test ssss
 }
 echoTypes(null)
