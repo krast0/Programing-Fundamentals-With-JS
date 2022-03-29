@@ -50,6 +50,7 @@ race(['Ronald, Bill, Tom, Timmy, Maggie, Michonne, Nicoleinka',
 'T(*^^%immy77) ',
 'Ma10**$#g0g0g0i0e',
 'N^&%i(&(*&235co^%^&leinka242',
+'pesnica',
 'end of race']
 
 )
