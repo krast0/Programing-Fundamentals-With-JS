@@ -21,5 +21,5 @@ function adAstra(input) {
   
 }
 
-adAstra()
+adAstra([ '$$#@@%^&#Fish#24/312/20#8500#|#Inco|Maten pipi|26/10/78|10000|rrect#19.03.20#450|$5*(@!#Ice Crea42m#03/10/21#9000#^#@aswe|Milk|05/033/20|2000|' ])
     
